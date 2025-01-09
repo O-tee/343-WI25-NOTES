@@ -51,9 +51,10 @@ are as far left as possible
 any node have height difference by at most 1 (ignore leaves)
 <img width="341" alt="Screenshot 2025-01-08 at 18 48 37" src="https://github.com/user-attachments/assets/b343dd28-f778-4bff-8c8f-f87962a4b135" />
 
-<img width="923" alt="Screenshot 2025-01-08 at 18 53 35" src="https://github.com/user-attachments/assets/8ee6cb00-627f-45c2-b162-5aaf2b899653" />
-- # of nodes = n
-- min level = log n
-- max level = n
+<img width="923" alt="Screenshot 2025-01-08 at 18 53 35" src="https://github.com/user-attachments/assets/8ee6cb00-627f-45c2-b162-5aaf2b899653" /> <br/>
+- num. of nodes = n
+-  min level = log n
+-  max level = n
+-  binary search tree is log()
 
 
