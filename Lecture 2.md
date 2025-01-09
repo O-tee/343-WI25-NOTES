@@ -58,3 +58,8 @@ any node have height difference by at most 1 (ignore leaves)
 -  binary search tree is O(log(n))
 
 
+
+<img width="913" alt="Screenshot 2025-01-08 at 19 38 10" src="https://github.com/user-attachments/assets/656928d4-8242-4a79-b0e8-458b7f464491" /> <br/>
+- order matters 
+
+
