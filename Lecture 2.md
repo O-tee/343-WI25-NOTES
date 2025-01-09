@@ -40,12 +40,12 @@ struct BinaryTreeNode {<br/>
 - Will include a binary tree implementation in assignment 2
 
 
-- Full binary tree has no nodes with one child; they all have
+- **Full binary** tree has no nodes with one child; they all have
 zero or two.
-- Perfect binary tree: full binary tree where all of the leaves
+- **Perfect binary tree**: full binary tree where all of the leaves
 are at the same level
-- Complete binary tree has every level, except possibly the
+- **Complete binary tree** has every level, except possibly the
 deepest, is completely filled. The nodes in the last level
 are as far left as possible
-- Balanced binary tree: where the left and right subtrees of
+- **Balanced binary tree**: where the left and right subtrees of
 any node have height difference by at most 1
