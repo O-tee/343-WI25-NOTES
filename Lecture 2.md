@@ -55,6 +55,6 @@ any node have height difference by at most 1 (ignore leaves)
 - num. of nodes = n
 -  min level = log n
 -  max level = n
--  binary search tree is log()
+-  binary search tree is O(log(n))
 
 
