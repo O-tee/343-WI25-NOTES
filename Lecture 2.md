@@ -48,6 +48,6 @@ are at the same level
 deepest, is completely filled. The nodes in the last level
 are as far left as possible
 - **Balanced binary tree**: where the left and right subtrees of
-any node have height difference by at most 1
+any node have height difference by at most 1 (ignore leaves)
 <img width="341" alt="Screenshot 2025-01-08 at 18 48 37" src="https://github.com/user-attachments/assets/b343dd28-f778-4bff-8c8f-f87962a4b135" />
 
