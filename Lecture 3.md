@@ -16,6 +16,9 @@
   - left, root, right 
 - Postorder = porstfix
   - left, right, root
+- int - 4 byte - 32 bits
+- char - 1 byte - 8 bits 
+- bool - 1 bit  
  
 ### stack 
 - opperand -> push
