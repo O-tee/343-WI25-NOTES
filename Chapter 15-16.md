@@ -36,3 +36,17 @@ Chapter 16 of Frank M. Carrano, Timothy Henry - Data abstraction & problem solvi
 - The chapter briefly discusses general trees and how they can be implemented as binary trees.
 
 Chapter 16 emphasizes that the implementation of a binary tree affects the efficiency of its operations. Understanding these implementations is crucial for efficiently managing data using trees.
+
+# Reading Quiz for Ch 15-16
+- Each node in a tree has ______.
+  - At most 1 parent (bc the root at 0 parents)
+- Any data element within a record of a binary search tree is called a ______.
+  - field
+- Which of the following is NOT a property of a complete binary tree of height h?
+  -  all leaves are at level h
+- In the class BinaryNodeTree, the methods that use the parameter visit can modify the tree’s data, but not its structure.
+  - true
+- According to the text, it is natural to make each node an object.
+  - true
+- According to the text, an array-based implementation of a binary tree is much less attractive when the tree is complete.
+- false
